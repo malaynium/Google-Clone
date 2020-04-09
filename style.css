@@ -96,7 +96,8 @@
 .google-image img
 {
   margin:100px auto 10px;
-  width: 250px;
+  /*width: 250px;*/
+  width: 350px;
   cursor: pointer; 
 }
 
