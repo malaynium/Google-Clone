@@ -16,7 +16,7 @@
   * [x] Logo Google
   * [x] Input Box & Submit Button
   * [x] Icon Microphone
-* [x] Bookmark
+* [x] Bookmark Section
   * [x] Gmail Icon
   * [x] Facebook Icon
   * [x] Youtube Icon
